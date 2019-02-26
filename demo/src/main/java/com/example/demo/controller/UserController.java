@@ -15,7 +15,7 @@ public class UserController {
 	@ResponseBody
 	public User hello() {
 	User u=new User();
-	u.setName("imooc222");
+	u.setName("imooc222githun");
 		u.setAge(18);
 		u.setBirthday(new Date());
 		u.setPassword("imooc11");
